@@ -243,14 +243,8 @@
         {
             "name": "魔都|点播",
             "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
-            "source": "",
-            "response_time": 2.49,
-            "available": true,
-            "status": "valid_apple_cms",
-            "message": "有效的苹果CMS格式 - 包含关键词: code, msg, list",
-            "checked_time": "2025-12-22 12:00:44",
-            "type": 1,
             "key": "caiji.moduapi.cc",
+            "available": true,
             "searchable": true,
             "discoverable": true
         },
