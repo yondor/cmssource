@@ -1,0 +1,276 @@
+{
+    "sites": [
+        {
+            "name": "豆瓣|点播",
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn",
+            "key": "caiji.dbzy.tv",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "新浪|点播",
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "key": "api.xinlangapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "金鹰资源",
+            "api": "https://jyzyapi.com/provide/vod/",
+            "key": "jyzyapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "量子資源",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "key": "cj.lziapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "量子資源",
+            "api": "https://lzizy.net/api.php/provide/vod/",
+            "key": "lzizy.net",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "光速资源",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "key": "api.guangsuapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "四圈资源",
+            "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
+            "key": "pg.fenwe078.cf",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "映迷",
+            "api": "https://www.inmi.app/api.php/provide/vod/",
+            "key": "www.inmi.app",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "金鹰|点播",
+            "api": "https://jinyingzy.com/api.php/provide/vod/",
+            "key": "jinyingzy.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "樱花资源网",
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "key": "m3u8.apiyhzy.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "最大|点播",
+            "api": "https://zuidazy.me/api.php/provide/vod/",
+            "key": "zuidazy.me",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "飘零影院",
+            "api": "https://p2100.net/api.php/provide/vod/",
+            "key": "p2100.net",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "百度资源",
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
+            "key": "api.apibdzy.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "极速资源",
+            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "key": "jszyapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "火狐资源",
+            "api": "https://hhzyapi.com/api.php/provide/vod/",
+            "key": "hhzyapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "红牛资源",
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "key": "www.hongniuzy2.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "卧龙资源",
+            "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+            "key": "collect.wolongzy.cc",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "旺旺|点播",
+            "api": "https://api.wwzy.tv/api.php/provide/vod/",
+            "key": "api.wwzy.tv",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "卧龙网资源",
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+            "key": "collect.wolongzyw.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "索尼资源",
+            "api": "https://suoniapi.com/api.php/provide/vod/",
+            "key": "suoniapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "速播资源",
+            "api": "https://subocaiji.com/api.php/provide/vod/",
+            "key": "subocaiji.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "无尽资源",
+            "api": "https://api.wujinapi.com/api.php/provide/vod/",
+            "key": "api.wujinapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "iKun",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/",
+            "key": "ikunzyapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "闪电资源",
+            "api": "https://sdzyapi.com/api.php/provide/vod/",
+            "key": "sdzyapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "非凡资源",
+            "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+            "key": "cj.ffzyapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "墨斗|点播",
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+            "key": "www.mdzyapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "艾旦影视",
+            "api": "https://lovedan.net/api.php/provide/vod/",
+            "key": "lovedan.net",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "虎牙资源",
+            "api": "https://www.huyaapi.com/api.php/provide/vod/",
+            "key": "www.huyaapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "暴风|点播",
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "key": "bfzyapi.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "丫丫|点播",
+            "api": "https://cj.yayazy.net/api.php/provide/vod/",
+            "key": "cj.yayazy.net",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "魔都|点播",
+            "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+            "key": "caiji.moduapi.cc",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "牛牛|点播",
+            "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+            "key": "api.niuniuzy.me",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "360|点播",
+            "api": "https://360zy.com/api.php/provide/vod/",
+            "key": "360zy.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        },
+        {
+            "name": "步步高资源",
+            "api": "https://api.yparse.com/api/json",
+            "key": "api.yparse.com",
+            "available": true,
+            "searchable": true,
+            "discoverable": true
+        }
+    ]
+}
